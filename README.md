@@ -11,7 +11,7 @@
 ##
 
 #### Conhecimentos em:
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Saulo-Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
   <img align="center" alt="Saulo-Ubuntu" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
   <img align="center" alt="Saulo-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
