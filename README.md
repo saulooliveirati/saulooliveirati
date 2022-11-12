@@ -29,5 +29,7 @@
  <a href="https://www.linkedin.com/in/saulooliveiramg" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://api.whatsapp.com/send?phone=5531983150288&text=Ol%C3%A1%2C%20Entrei%20em%20contato%20pelo%20Github!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
  <a href="http://oliveirati.com.br/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  
 ![Snake animation](https://github.com/saulooliveirati/saulooliveirati/blob/output/github-contribution-grid-snake.svg)
+  
   </div>
