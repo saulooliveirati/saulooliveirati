@@ -19,7 +19,6 @@
   <img align="center" alt="Saulo-CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img align="center" alt="Saulo-JS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Saulo-Pyton" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-   <!-- <img align="right" alt="Saulo-pic" height="150" style="border-radius:50px;" src="https://img.freepik.com/vetores-gratis/laptop-com-icone-de-codigo-isometrico-de-programa-desenvolvimento-de-software-e-aplicacoes-de-programacao-neon-escuro_39422-971.jpg?w=900&t=st=1668221681~exp=1668222281~hmac=96a1df51ead25e289fbe94f39857d06dc0790ae7cee538495f90f9447599186d"> --">
 </div>
   
  ##
@@ -31,6 +30,6 @@
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/saulooliveirati/saulooliveirati/blob/output/github-contribution-grid-snake.svg)
+ 
  
 </div>
